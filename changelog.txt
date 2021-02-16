@@ -1,3 +1,8 @@
 Changelog vom 16.02.2021
 
-- Kannst hier hin schreiben was du willst und nach ca 2-3 min akutalisiert das im Launcher das ist sehr geil 😍
+-Icons wurden hinzugefügt
+-Legale Farmrouten wurden hinzugefügt (es werden mehr kommen)
+-Essen und Trinken was man bei der Farmroute bekommt kann man essen und trinken 
+-Bugs Wurden Behoben
+-Neue Autos wurden hinzugefügt müssen aber noch getestet werden 
+-Ein neues Drogen System ist drauf gekommen und wird am Wochenende gesteste 
